@@ -6,7 +6,6 @@ I'm a passionate software developer with a B.Tech in Electronics and Communicati
 ## 🌱 Currently Learning
 - [ ] Machine Learning
 - [ ] Data Visualization
-- [ ] Cloud Computing
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, C, C++
@@ -23,7 +22,7 @@ Here are a few of my favorite projects:
 - [Project 3: Machine Learning Model](https://github.com/yourusername/ml-model) - A machine learning model for predictive analysis.
 
 ## 📫 Get in Touch
-- Email: your.email@example.com
+- Email: bidishacutex@gmail.com
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 
 Feel free to reach out if you'd like to connect or collaborate on any projects!
