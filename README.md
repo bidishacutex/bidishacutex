@@ -9,10 +9,9 @@ I'm a passionate software developer with a B.Tech in Electronics and Communicati
 - [ ] Cloud Computing
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, C++
-- **Web Development:** HTML, CSS, React.js
-- **Database Management:** MySQL, MongoDB
-- **Tools:** Git, Docker, Visual Studio Code
+- **Languages:** Python, C, C++
+- **Database Management:** MySQL
+- **Tools:** Git, Visual Studio Code, Tableau, Power BI, Visio, Arduino IDE
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
