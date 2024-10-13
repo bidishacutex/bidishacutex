@@ -14,7 +14,7 @@ I'm a passionate software developer with a B.Tech in Electronics and Communicati
 - **Tools:** Git, Visual Studio Code, Tableau, Power BI, Visio, Arduino IDE
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidishacutex&show_icons=true&hide_border=true&theme=radical)
 
 ## 📂 Projects
 Here are a few of my favorite projects:
