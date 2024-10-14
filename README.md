@@ -23,6 +23,6 @@ Here are a few of my favorite projects:
 
 ## 📫 Get in Touch
 - Email: bidishacutex@gmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: https://www.linkedin.com/in/bidisha-shaw/
 
 Feel free to reach out if you'd like to connect or collaborate on any projects!
