@@ -1,10 +1,11 @@
 # Hello there! 👋 I'm Bidisha Shaw
 
 ## 👩‍💻 About Me
-I'm a passionate software developer with a B.Tech in Electronics and Communication Engineering. I love creating innovative solutions and learning new technologies. My main interests include web development, data analysis, and artificial intelligence.
+I'm a passionate Data Analyst with a B.Tech in Electronics and Communication Engineering. I love creating innovative solutions and learning new technologies. My main interests include data analysis, machine learning, artificial intelligence, and IoT.
 
 ## 🌱 Currently Learning
 - [ ] Machine Learning
+- [ ] Data Analysing
 - [ ] Data Visualization
 
 ## 🛠️ Technologies & Tools
