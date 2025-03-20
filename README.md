@@ -5,7 +5,7 @@ I'm a passionate Data Analyst with a B.Tech in Electronics and Communication Eng
 
 ## 🌱 Currently Learning
 - [ ] Machine Learning
-- [ ] Data Analysing
+- [ ] Data Analysis
 - [ ] Data Visualization
 
 ## 🛠️ Technologies & Tools
